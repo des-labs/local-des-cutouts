@@ -1,0 +1,19 @@
+spec:
+  username: ""
+  password: ""
+  db: dessci
+  jobid: local_job
+  log: ./output/cutout_local_job.log
+  make_fits: false
+  make_rgb_lupton: true
+  make_rgb_stiff: false
+  num_cpus: 1
+  oracle_service_account_db: ''
+  oracle_service_account_pass: ''
+  oracle_service_account_user: ''
+  outdir: ./output
+  release: Y6A2
+  rgb_lupton_colors: irg
+  rgb_stiff_colors: irg
+  xsize: 1.0
+  ysize: 1.0
